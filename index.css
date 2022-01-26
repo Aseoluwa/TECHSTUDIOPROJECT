@@ -1,0 +1,28 @@
+.w1{
+    display: flex;
+    justify-content: space-between;
+    border: 0px solid;
+}
+.logo1{
+    width: 7%;
+    padding-right: 8px; 
+}
+.div001{
+    padding-right: 300px;
+    padding-top: 9px;
+
+}
+.div000{
+    display: flex;
+    padding-left: 90px;
+}
+.div002{
+    padding-top: 15px;
+}
+.nrv2{
+    /* border: 1px solid; */
+    background-image: url(./IMG/bg.jpg);
+}
+.div003{
+    color: aliceblue;
+}
